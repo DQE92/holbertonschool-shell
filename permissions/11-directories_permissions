@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x,g+x,o+x $holbertonschool
+find . -type d -exec chmod u+x,g+x,o+x {} \;
