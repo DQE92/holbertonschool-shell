@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -f . *.js 
+rm -f /home/dqe/holbertonschool-shell/io_redirections_and_filters *.js 
